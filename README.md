@@ -1,7 +1,11 @@
 # SalesInvoiceGenerator
 
-I am still working on the project & I will upload the files here soon.
+Kindly find above the whole completed project.
 
-I found the deadline on the website non changed to 28th of March so I thought to submit an empty file in order to not pass the deadline and be able to resubmit again.
+The project consists of two Big packages:
+1) com.salesinvoicesgenerato: including the whole project classes.
+2) Main : includes the Main Class only.
 
-Thanks for your understanding.
+You can run the project either from the Main Class or the SalesInvoicesGenerator JFrame Class.
+
+Thanks for your understanding & appreciate your time.
