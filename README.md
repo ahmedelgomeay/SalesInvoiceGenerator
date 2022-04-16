@@ -3,9 +3,9 @@
 # After Review #3 Update:
 
 1) Removed the main method from SalesInvoicesFrame Class to avoid duplicate main methods.
-2) Provided **19 screenshots of the project** to confirm that it's working & errors avoiding it to work are removed. Kindly check them if you have time.
-3) Added **tables CSV files**. You can find them aboved **under the 19 screenshots.**
-4) There are no similar files & packages. Please check the "Project consits of" section below  & check the comments before methods in order to get a better understanding of the whole project classes & code.
+2) Added Screenshots Of Project **(19 screenshots)** to confirm that it's working & errors avoiding it to work are removed. Kindly check them if you have time.
+3) Added **tables CSV files**. You can find them above **under Screenshots Of Project directory.**
+4) There are no similar files & packages. Please check the "Project consits of" section below  & check the comments I added before methods in order to get a better understanding of the whole project classes & code.
 
 - Thanks for your understanding & appreciate your review time.
 
