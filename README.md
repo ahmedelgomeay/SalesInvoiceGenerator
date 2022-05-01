@@ -1,5 +1,13 @@
 # SalesInvoiceGenerator
 
+# After Review #4 Update:
+
+1) Rebuilt the project again using Project SDK version "1.8" as I was using SDK version "17" and that might caused the switch statements error.
+2) Made sure that it is working on the version provided of 1.8.
+3) Reuploaded the files again.
+4) Kindly accept the review this time as I only have one week to graduate & will not be able to graudate after deadline.
+
+____________________________________________________________________
 # After Review #3 Update:
 
 1) Removed the main method from SalesInvoicesFrame Class to avoid duplicate main methods.
